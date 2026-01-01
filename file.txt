@@ -1,1 +1,6 @@
 ds
+<<<<<<< HEAD
+=======
+made chn
+dafwsdv
+>>>>>>> parent of b217c68 (changes 3)
